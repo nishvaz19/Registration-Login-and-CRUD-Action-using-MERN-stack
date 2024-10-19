@@ -29,7 +29,7 @@ Below noted things you need to install to run this project in your system
 
 :rocket: You can deploy your own version of the template to Genezio with one click:
 
-[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=[https://github.com/creativetimofficial/muse-ant-design-dashboard](https://github.com/nishvaz19/Registration-Login-and-CRUD-Action-using-MERN-stack&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/nishvaz19/Registration-Login-and-CRUD-Action-using-MERN-stack&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
 
 ### To Setup
 Clone or download this repository
