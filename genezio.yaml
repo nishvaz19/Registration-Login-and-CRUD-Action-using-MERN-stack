@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: 'cd Registration-and-Login-using-MERN-stack/backend && npm install && npm run build && cd Registration-and-Login-using-MERN-stack/frontend && npm install && npm run build '
+        deploy: npm install
+    subdomain: Registration-Login-and-CRUD-Action-using-MERN-stack
+name: Registration-Login-and-CRUD-Action-using-MERN-stack
+region: us-east-1
+yamlVersion: 2
